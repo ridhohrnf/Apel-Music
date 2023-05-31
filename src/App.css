@@ -1,0 +1,151 @@
+.banner {
+  margin:0;
+  background-image: url(/src/Assets/img/image-3.png);
+  height: 514px;
+}
+.banner h4{
+  padding-top: 59px;
+  color: white;
+  text-align: center;
+}
+.banner h5{
+  padding-top:27px;
+  color: white;
+  text-align: center;
+}
+
+/*utils */
+
+/* .font-weight-bold {
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 420px) {
+
+  .hero-container {
+    flex-wrap: wrap;
+    height: 100%;
+    margin-top:10px;
+    margin-bottom: 10px;
+  }
+
+  .hero-container>div {
+    width: 100%;
+    height: 250px;
+  }
+
+  .hero-container h1 {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+  }
+
+  .content-container {
+    grid-template-columns: 1fr;
+  }
+
+  .description-container {
+    flex-wrap: wrap;
+    height: 100%;
+  }
+
+  .description-container h2,
+  .description-container p {
+    text-align: center;
+  }
+
+  .description-container>div {
+    width: 100%;
+    padding: 5%;
+  }
+
+  .description-container>div>div {
+    width: 100%;
+  }
+
+  .description-container>img {
+    width: 100%;
+    height: 200px;
+  }
+
+  .what-is-container {
+    flex-wrap: wrap;
+    height: 100%;
+    flex-direction: column-reverse;
+  }
+
+  .what-is-container>div {
+    width: 100%;
+  }
+
+  .what-is-container>div>div {
+    width: 100%;
+  }
+
+  .what-is-container>img {
+    width: 100%;
+  }
+
+  .what-is-container h1 {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+  }
+
+  .what-is-container p {
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+  }
+
+  nav>.nav-menu {
+    display: none;
+  }
+
+  .card img {
+    height: 200px;
+  }
+
+  .button-container {
+    justify-content: center;
+  }
+
+
+} */
+
+/* styling homepage Ridho */
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */

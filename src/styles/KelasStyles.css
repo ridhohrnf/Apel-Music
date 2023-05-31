@@ -1,0 +1,29 @@
+/* .titleClass {
+    padding: 25px 40px;
+}
+
+.titleClass h1 {
+    margin-bottom: 20px;
+}
+
+.kelas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.kelas h1 {
+    color: blueviolet;
+    padding: 20px;
+}
+
+.kelas .goup {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+} */
